@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="17908452002a71.png" alt="Conz Greiner Banner" width="100%">
+  <img src="1790851803689a.png" alt="Conz Greiner Banner" width="100%">
 </div>
 
 # 👋 Hi, I'm Conz Greiner
