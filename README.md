@@ -62,15 +62,8 @@ I am currently exploring **Agentic Workflow Optimization** (reducing latency in 
 
 ---
 
-### 📫 Let's Connect
-I am open to high-level AI consulting, architecture design, and complex freelance projects.
-
-- **LinkedIn:** [Your LinkedIn Link]
-- **Upwork:** [Your Upwork Profile Link]
-- **Portfolio/Website:** [If you have one]
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" alt="Conz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Conz-Greiner&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" alt="Conz's GitHub Stats" />
 </div>
 ```
 
